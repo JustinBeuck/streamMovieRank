@@ -2,7 +2,7 @@ import React from 'react';
 
 import { render } from 'react-dom';
 
-const streamMovieRank = React.createClass({
+const Streammovierank = React.createClass({
 	render() {
 		return (
 			<div>
@@ -12,4 +12,4 @@ const streamMovieRank = React.createClass({
 	}
 });
 
-render(<streamMovieRank />, document.getElementById('root'));
+render(<Streammovierank />, document.getElementById('root'));
